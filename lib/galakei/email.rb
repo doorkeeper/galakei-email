@@ -1,5 +1,4 @@
 require "galakei/email/version"
-require "galakei/email/railtie" if defined?(Rails)
 require "nokogiri"
 require "active_support/core_ext/object/blank"
 require "sanitize"
